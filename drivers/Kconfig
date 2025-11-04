@@ -234,4 +234,6 @@ source "drivers/gpu/msm/Kconfig"
 source "drivers/energy_model/Kconfig"
 
 source "drivers/lindroid-drm/Kconfig"
+
+source "drivers/lindroid-drm/Kconfig"
 endmenu
